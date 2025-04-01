@@ -8,7 +8,6 @@
 
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
 
-![Library_project](https://github.com/najirh/Library-System-Management---P2/blob/main/library.jpg)
 
 ## Objectives
 
@@ -366,6 +365,12 @@ GROUP BY 1, 2;
 
 SELECT * FROM branch_reports;
 ```
+**Reports-:**
+Database Schema: Detailed table structures and relationships.
+
+Data Analysis: Insights into book categories, employee salaries, member registration trends, and issued books.
+
+Summary Reports: Aggregated data on high-demand books and employee performance.
 
 - **LinkedIn**: [Connect with me professionally] ( https://www.linkedin.com/in/saurabh-mohod-6a38711b3 )
 
